@@ -1,0 +1,12 @@
+{
+  "name": "evmd-sfa-app",
+  "displayName": "evmd-sfa-app",
+  "expo": {
+    "name": "evmd-sfa-app",
+    "slug": "evmd-sfa-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
